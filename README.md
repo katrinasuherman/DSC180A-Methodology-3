@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Katrina Suherman
-ksuherman@ucsd.edu
+Katrina Suherman and Rheka Narwastu
